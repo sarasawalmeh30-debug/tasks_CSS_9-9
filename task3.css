@@ -1,0 +1,16 @@
+.contanertask3{
+    display: flex;
+    border: 2px solid orange;
+    width: 100%;
+    box-sizing: border-box;
+    
+
+}
+.d1{
+flex:1;
+width: 100px;
+height: 710px;
+color:white;
+font-size: 50px;
+text-align: center;
+}

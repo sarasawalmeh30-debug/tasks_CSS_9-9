@@ -1,0 +1,43 @@
+.contaner{
+    display: flex;
+    border: 2px dashed black;
+    gap: 5px;
+    font-size: 20px;
+    width: fit-content;
+    
+}
+.red{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+
+}
+.static{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    position: static;
+}
+.relative{
+ background-color: green;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 25px;
+    left:40px ;
+}
+.absolute{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 20px;
+    left: 25px;
+}
+.contaner3{
+    display: flex;
+    border: 2px dashed black;
+    gap: 5px;
+    position: relative;
+    width: fit-content;
+}
